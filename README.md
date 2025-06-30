@@ -6,6 +6,11 @@
 Este projeto faz parte do Desafio 8 de Desenvolvimento de Módulos ERP em Portugol (Visualg). Desenvolvemos dois módulos essenciais para o funcionamento do sistema ERP da agência de turismo "Destino Certo": **Vendas e Reservas** e **Estoque de Materiais**.
 
 ---
+## 🤝 Integrantes do Grupo
+
+- Alaides Lemos  -> https://github.com/alaideslemos
+- Luiz Henrique  -> https://github.com/Luizhcf857
+- João Torres -> https://github.com/JoaoTorre5-oDev
 
 ## 📦 Módulo 1: Vendas e Reservas
 
@@ -72,5 +77,4 @@ Este módulo tem como objetivo gerenciar o controle de materiais utilizados nas 
 
 ---
 
-## 📂 Estrutura do Repositório
 
